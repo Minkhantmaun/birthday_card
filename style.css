@@ -49,8 +49,8 @@ html, body {
 }
 .card {
   position: relative;
-  width: 390px;
-  height: 550px;
+  width: 450px;
+  height: 650px;
   border: 10px solid var(--border-color);
   box-shadow: inset 10px 0px 15px rgba(0,0,0,0.1);
   background-color: rgb(230, 190, 250);
@@ -201,7 +201,7 @@ html, body {
 }
 .card .text-container #head {
   font-family: 'Nobile', sans-serif;
-  font-size: 2.5em;
+  font-size: 1.5em;
   margin: 20px auto 30px auto;
   background: linear-gradient(135deg, #ed0d7d, #E74C3C, #210404, #d14119, #e33606);
   -webkit-background-clip: text;
@@ -212,5 +212,5 @@ html, body {
   font-family: 'Nobile';
   color: #580083;
   font-style: italic;
-  font-size: 1.4em;
+  font-size: 1em;
 }
