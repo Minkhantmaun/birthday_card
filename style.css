@@ -201,7 +201,7 @@ html, body {
 }
 .card .text-container #head {
   font-family: 'Nobile', sans-serif;
-  font-size: 0.2em;
+  font-size: 1.3em;
   margin: 20px auto 30px auto;
   background: linear-gradient(135deg, #ed0d7d, #E74C3C, #210404, #d14119, #e33606);
   -webkit-background-clip: text;
@@ -212,5 +212,5 @@ html, body {
   font-family: 'Nobile';
   color: #580083;
   font-style: italic;
-  font-size: 0.1em;
+  font-size: 1em;
 }
