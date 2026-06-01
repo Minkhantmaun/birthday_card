@@ -49,8 +49,8 @@ html, body {
 }
 .card {
   position: relative;
-  width: 450px;
-  height: 650px;
+  width: 550px;
+  height: 750px;
   border: 10px solid var(--border-color);
   box-shadow: inset 10px 0px 15px rgba(0,0,0,0.1);
   background-color: rgb(230, 190, 250);
